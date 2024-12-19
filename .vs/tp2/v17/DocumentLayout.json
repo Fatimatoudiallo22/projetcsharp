@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|c:\\users\\fatima diallo\\videos\\captures\\tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|c:\\users\\fatima diallo\\videos\\captures\\tp2\\icompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|solutionrelative:icompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|c:\\users\\fatima diallo\\videos\\captures\\tp2\\iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|solutionrelative:iclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|c:\\users\\fatima diallo\\videos\\captures\\tp2\\icompteimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|solutionrelative:icompteimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|c:\\users\\fatima diallo\\videos\\captures\\tp2\\iclientimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|solutionrelative:iclientimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|c:\\users\\fatima diallo\\videos\\captures\\tp2\\programme\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|solutionrelative:programme\\compte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|c:\\users\\fatima diallo\\videos\\captures\\tp2\\iagenceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|solutionrelative:iagenceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|c:\\users\\fatima diallo\\videos\\captures\\tp2\\iagence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|solutionrelative:iagence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|c:\\users\\fatima diallo\\videos\\captures\\tp2\\programme\\simplecompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|solutionrelative:programme\\simplecompte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|c:\\users\\fatima diallo\\videos\\captures\\tp2\\programme\\comptepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|solutionrelative:programme\\comptepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|c:\\users\\fatima diallo\\videos\\captures\\tp2\\programme\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|solutionrelative:programme\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|c:\\users\\fatima diallo\\videos\\captures\\tp2\\programme\\agence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB83D944-5D73-43A5-BB29-FCA89A1A5EB4}|tp2.csproj|solutionrelative:programme\\agence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICompteImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\ICompteImpl.cs",
+              "RelativeDocumentMoniker": "ICompteImpl.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\ICompteImpl.cs",
+              "RelativeToolTip": "ICompteImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:38:34.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICompte.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\ICompte.cs",
+              "RelativeDocumentMoniker": "ICompte.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\ICompte.cs",
+              "RelativeToolTip": "ICompte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:38:32.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IClientImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\IClientImpl.cs",
+              "RelativeDocumentMoniker": "IClientImpl.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\IClientImpl.cs",
+              "RelativeToolTip": "IClientImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:38:30.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClient.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\IClient.cs",
+              "RelativeDocumentMoniker": "IClient.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\IClient.cs",
+              "RelativeToolTip": "IClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:38:27.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAgenceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\IAgenceImpl.cs",
+              "RelativeDocumentMoniker": "IAgenceImpl.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\IAgenceImpl.cs",
+              "RelativeToolTip": "IAgenceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:38:25.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:57:26.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Compte.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\programme\\Compte.cs",
+              "RelativeDocumentMoniker": "programme\\Compte.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\programme\\Compte.cs",
+              "RelativeToolTip": "programme\\Compte.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:20:28.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAgence.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\IAgence.cs",
+              "RelativeDocumentMoniker": "IAgence.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\IAgence.cs",
+              "RelativeToolTip": "IAgence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:38:17.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Simplecompte.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\programme\\Simplecompte.cs",
+              "RelativeDocumentMoniker": "programme\\Simplecompte.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\programme\\Simplecompte.cs",
+              "RelativeToolTip": "programme\\Simplecompte.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:24:52.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comptepargne.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\programme\\Comptepargne.cs",
+              "RelativeDocumentMoniker": "programme\\Comptepargne.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\programme\\Comptepargne.cs",
+              "RelativeToolTip": "programme\\Comptepargne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:23:03.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\programme\\Client.cs",
+              "RelativeDocumentMoniker": "programme\\Client.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\programme\\Client.cs",
+              "RelativeToolTip": "programme\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:13:11.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Agence.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\programme\\Agence.cs",
+              "RelativeDocumentMoniker": "programme\\Agence.cs",
+              "ToolTip": "C:\\Users\\Fatima Diallo\\Videos\\Captures\\tp2\\programme\\Agence.cs",
+              "RelativeToolTip": "programme\\Agence.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA4wFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:59:47.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

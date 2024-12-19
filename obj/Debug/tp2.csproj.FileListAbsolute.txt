@@ -1,0 +1,7 @@
+C:\Users\Fatima Diallo\Videos\Captures\tp2\bin\Debug\tp2.exe.config
+C:\Users\Fatima Diallo\Videos\Captures\tp2\bin\Debug\tp2.exe
+C:\Users\Fatima Diallo\Videos\Captures\tp2\bin\Debug\tp2.pdb
+C:\Users\Fatima Diallo\Videos\Captures\tp2\obj\Debug\tp2.csproj.AssemblyReference.cache
+C:\Users\Fatima Diallo\Videos\Captures\tp2\obj\Debug\tp2.csproj.CoreCompileInputs.cache
+C:\Users\Fatima Diallo\Videos\Captures\tp2\obj\Debug\tp2.exe
+C:\Users\Fatima Diallo\Videos\Captures\tp2\obj\Debug\tp2.pdb
